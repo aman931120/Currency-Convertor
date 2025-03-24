@@ -126,5 +126,5 @@ If you want to contribute to this project:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or issues, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries or issues, feel free to reach out at [your-email@example.com](mailto:akt9802@gmail.com).
 
